@@ -3,7 +3,7 @@
 # ACM-ICPC Preparation 
 ![](https://img.shields.io/badge/NAU-in%20progress-blue.svg) ![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Weeks%20Completed-8%2F20-orange.svg)
 
-This program has been developed to learn Algorithms for use in Competitive Prorgamming, **but can be used for:**
+This program has been developed to learn Algorithms for use in Competitive Programming, **but can be used for:**
   - Competitive Programming
   - Practicing for Interviews
   - Improving Algorithmic Thinking
@@ -36,7 +36,8 @@ In this course we will use some tools for the questions. As I mentioned above al
   - [Codeforces](http://codeforces.com)
   - [Lightoj](http://www.lightoj.com)
   - [ACM-Timus](http://acm.timus.ru)
-
+  - [CSacademy](https://csacademy.com)
+  
 I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
 
 ## Contribution
